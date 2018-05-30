@@ -1,0 +1,57 @@
+[
+    {
+        "task": "Take out the trash",
+        "deadline": "2018-06-01",
+        "done": false
+    },
+    {
+        "task": "Feed the dog",
+        "deadline": "2018-05-30",
+        "done": true
+    },
+    {
+        "task": "Order lunch",
+        "deadline": "2018-05-31",
+        "done": false
+    },
+    {
+        "task": "Send email to Peter",
+        "deadline": "2018-06-06",
+        "done": true
+    },
+    {
+        "task": "Buy groceries",
+        "deadline": "2018-06-01",
+        "done": false
+    },
+    {
+        "task": "Go to the gym",
+        "deadline": "2018-06-01",
+        "done": false
+    },
+    {
+        "task": "Call mama",
+        "deadline": "2018-07-01",
+        "done": false
+    },
+    {
+        "task": "Buy present for Peter",
+        "deadline": "2018-06-11",
+        "done": true
+    },
+    {
+        "task": "Write programs",
+        "deadline": "2018-05-21",
+        "done": false
+    },
+    {
+        "task": "Meet friends",
+        "deadline": "2018-06-01",
+        "done": true
+    },
+    {
+        "task": "Do shopping",
+        "deadline": "2018-06-01",
+        "done": false
+    }
+]
